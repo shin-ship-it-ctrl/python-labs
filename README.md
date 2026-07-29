@@ -1,4 +1,4 @@
-# University Assignments & Lab Sheets
+# Python Labs
 
 This repository contains selected lab sheets and programming assignments completed during my BSc Applied Computing at the University of Mauritius.
 
